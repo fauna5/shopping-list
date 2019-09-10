@@ -1,6 +1,5 @@
 import Vuex from 'vuex';
 import { shallowMount, createLocalVue } from '@vue/test-utils';
-import createStore from '../store/store';
 
 import ItemInput from './ItemInput';
 
