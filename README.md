@@ -2,7 +2,7 @@
 
 A simple shopping list App that saves state on a server
 
-![app](./doc/app.png)
+<img src="./doc/app.png" alt="drawing" width="200"/>
 
 This app has two projects
 * `client` for the web front end
@@ -20,7 +20,7 @@ A simple express server that can
 
 # How to run
 
-## client
+## Client
 In one terminal
 ```
 cd packages/client
