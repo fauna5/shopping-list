@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List renders 1`] = `
+<div>
+  <ul
+    class="shopping-list"
+  >
+    <li>
+      <list-item-stub
+        id="0"
+        title="eggs"
+      />
+    </li>
+    <li>
+      <list-item-stub
+        complete="true"
+        id="1"
+        title="milk"
+      />
+    </li>
+    <li>
+      <list-item-stub
+        id="2"
+        title="bread"
+      />
+    </li>
+  </ul>
+</div>
+`;

@@ -4,8 +4,26 @@ exports[`App should render 1`] = `
 <div
   id="app"
 >
-  
-  hello world
-
+  <div
+    class="conatiner"
+  >
+    <div
+      class="header"
+    >
+      <img
+        src="./assets/logo.svg"
+      />
+       
+      <h1>
+        Shopping List
+      </h1>
+    </div>
+     
+    <item-input-stub />
+     
+    <list-stub
+      class="list"
+    />
+  </div>
 </div>
 `;

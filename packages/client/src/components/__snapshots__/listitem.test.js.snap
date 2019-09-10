@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItem renders 1`] = `
+<div
+  class="list-item"
+>
+  <input
+    type="checkbox"
+  />
+   
+  <h2
+    class=""
+  >
+    bread
+  </h2>
+</div>
+`;
