@@ -21,8 +21,16 @@ A simple express server that can
 
 # How to run
 
+## Server
+In a terminal
+```
+cd packages/server
+npm i
+npm run dev
+```
+
 ## Client
-In one terminal
+In another terminal
 ```
 cd packages/client
 npm i
@@ -30,13 +38,6 @@ npm run serve
 ```
 Then open a browser at `http://localhost:8080/`
 
-## Server
-In another terminal
-```
-cd packages/server
-npm i
-npm run dev
-```
 # Testing
 Is done with `jest` just `cd` to the folder and `npm t`
 
